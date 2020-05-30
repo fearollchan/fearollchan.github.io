@@ -44,6 +44,6 @@ tags:
 # 后记
 	安装后，启动顺序首先是Linux，若没插入移动硬盘会进入grub模式，输入exit退出进入windows。可以修改uefi的boot order进行启动优先的设置。
 # 参考资料
-[1]	tutorialhttps://blog.csdn.net/ctthuangcheng/article/details/50356638
-[2]  tutorialhttps://www.cnblogs.com/wtc87/p/12153024.html
-[3]  分区背景知识https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/20.html
+[1]	tutorial：https://blog.csdn.net/ctthuangcheng/article/details/50356638
+[2]  tutorial：https://www.cnblogs.com/wtc87/p/12153024.html
+[3]  分区背景知识：https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/20.html
